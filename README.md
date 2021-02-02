@@ -1,0 +1,33 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h1 align="left">
+  Hi :D
+</h1>
+
+<p align="left"> 
+  I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
+</p>
+
+<p align="left">
+  🦄 Technology: <strong>HTML, CSS, SASS, JS e BOOTSTRAP</strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>Studio Visual Code, Git, Github e linux</strong>
+</p>
+
+<p align="left">
+  💌 If you want to know more about my projects just contact me: ⤵️
+</p>
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://wa.me/+5511976184659?text=Olá%20Alex" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.instagram.com/devalextf/?hl=pt-br" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>
