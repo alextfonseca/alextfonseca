@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Technology: <strong>HTML, CSS, SASS, JS e BOOTSTRAP</strong>
+  🦄 Technology: <strong>HTML, CSS, SASS, JS, REACT-NATIVE, EXPO e BOOTSTRAP</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Studio Visual Code,Figma, Git, Github e linux</strong>
+  💼 Tools: <strong>Studio Visual Code,Figma, SQL Server, Git, Github e linux</strong>
 </p>
 
 <p align="left">
