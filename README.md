@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Technology: <strong>HTML, CSS, SASS, JS, REACT, EXPO e BOOTSTRAP</strong>
+  🦄 Technology: <strong>HTML, CSS, SASS, JS, REACT, NEXT e BOOTSTRAP</strong>
 </p>
 
 <p align="left">
