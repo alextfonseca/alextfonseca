@@ -32,4 +32,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
-![Snake animation](https://github.com/alextfonseca/alextfonseca/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alextfonseca/rafaballerini/blob/output/github-contribution-grid-snake.svg)
