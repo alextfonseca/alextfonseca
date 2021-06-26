@@ -4,6 +4,11 @@
   Hi :D
 </h1>
 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 <p align="left"> 
   I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
 </p>
