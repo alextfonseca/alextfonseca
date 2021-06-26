@@ -1,12 +1,9 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1 align="left">
-  Hi :D
-</h1>
+  # Hi :D
 
-<p align="left"> 
-  I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
-</p>
+  ## I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
+
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
