@@ -6,8 +6,8 @@
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=tokyonight&border_radius=15&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=midnight-purple&border_radius=10&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true"/>
 </div>
 
 ## 🚀 Technologies
