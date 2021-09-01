@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" min-width="200px" max-width="200px" align="right" alt="Computador">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px" height="200px" align="right" alt="Computador">
 
   # Hi :D
 
