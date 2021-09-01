@@ -5,8 +5,8 @@
   ## I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
 
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=tokyonight&border_radius=15&hide_border=true"/>
+<div display="flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=tokyonight&border_radius=15&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
 </div>
 
