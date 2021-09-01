@@ -1,5 +1,8 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p color="#8844EE">
+  oi
+  </p>
   # Hi :D
 
   ## I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
