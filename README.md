@@ -14,15 +14,15 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="html" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="html" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="git" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="ejs" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" alt="php" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="ejs" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" alt="php" width="40" height="3400" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="vscode" width="25" height="25" />
 </div>
 
