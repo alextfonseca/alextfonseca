@@ -5,7 +5,7 @@
   ## I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
   
   
-<img src="https://visitor-badge.glitch.me/badge?page_id=caioliveira277.caioliveira277" alt="Visitas">
+<img src="https://visitor-badge.glitch.me/badge?page_id=alextfonseca.alextfonseca" background="#8844ee" alt="Visitas">
 
 
 <div margin-top="2px">
