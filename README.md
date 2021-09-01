@@ -25,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="ejs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" alt="php" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="vscode" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/mysql.svg" alt="vscode" width="40" height="40" />
 </div>
 
 
