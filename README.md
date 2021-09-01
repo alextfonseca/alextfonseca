@@ -1,14 +1,11 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p color="#8844EE">
-  oi
-  </p>
   # Hi :D
 
   ## I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
 
 
-<div>
+<div margin-top="2px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=midnight-purple&border_radius=10&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true"/>
 </div>
