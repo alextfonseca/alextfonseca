@@ -34,6 +34,8 @@
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/json.svg" alt="json" width="40" height="40" />
 </div>
 
+## 🚀 Portfólio
+<img src="https://i.ibb.co/XxtdrcV/QRCode-F-cil.png" alt="qrCode" width="300" height="300" />
 
  ## 💌 If you want to know more about my projects just contact me: ⤵️
 
