@@ -5,22 +5,29 @@
   ## I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
 
 
-<div display="flex">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=tokyonight&border_radius=15&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
 </div>
 
-<p align="left">
-  🦄 Technology: <strong>HTML, CSS, SASS, JS, REACT, NEXT e BOOTSTRAP</strong>
-</p>
+## 🚀 Technologies
+<div align="left">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="html" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="html" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="git" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/ejs.svg" alt="ejs" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" alt="php" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="vscode" width="25" height="25" />
+</div>
 
-<p align="left">
-  💼 Tools: <strong>Studio Visual Code,Figma, SQL Server, Git, Github e linux</strong>
-</p>
 
-<p align="left">
-  💌 If you want to know more about my projects just contact me: ⤵️
-</p>
+ ## 💌 If you want to know more about my projects just contact me: ⤵️
 
 <p align="left">
 
