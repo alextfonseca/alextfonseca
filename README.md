@@ -25,13 +25,15 @@
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" alt="php" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="node" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sequelize.svg" alt="sequelize" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="vscode" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" alt="console" width="40" height="40" />
 </div>
 
 ##  👾 Portfólio
-<img src="https://i.ibb.co/XxtdrcV/QRCode-F-cil.png" alt="qrCode" width="300" height="300" />
+<a href="https://alextfonseca.github.io/" alt="Linkedin">
+<img src="https://i.ibb.co/XxtdrcV/QRCode-F-cil.png" alt="qrCode" width="200" height="200" />
 
  ## 💌 If you want to know more about my projects just contact me: ⤵️
 
