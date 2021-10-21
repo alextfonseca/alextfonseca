@@ -15,7 +15,6 @@
 
 ## 🚀 Technologies
 <div align="left">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/arduino.svg" alt="arduino" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="html" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="40" height="40" />
