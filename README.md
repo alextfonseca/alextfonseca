@@ -3,9 +3,6 @@
   # Hi :D
 
   ## I'm Alex Teixeira da Fonseca <br> I study internet systems at FATEC in São Roque, my focus is front-end development.
-  
-  
-<img src="https://visitor-badge.glitch.me/badge?page_id=alextfonseca.alextfonseca" background="#8844ee" alt="Visitas">
 
 
 <div margin-top="2px">
@@ -31,7 +28,7 @@
 </div>
 
 ##  👾 Portfólio
-<a href="https://alextfonseca.github.io/" alt="Linkedin">
+<a href="https://alextfonseca.vercel.app/" alt="portfolio web">
 <img src="https://i.ibb.co/XxtdrcV/QRCode-F-cil.png" alt="qrCode" width="200" height="200" />
 
  ## 💌 If you want to know more about my projects just contact me: ⤵️
