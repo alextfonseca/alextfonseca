@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/k0KtRsV/github-header-image.png" alt="Computador">
+<img src="https://i.ibb.co/SxXrLwP/github-header-image.png" alt="Computador">
 
 
 <div padding="30px">
