@@ -17,12 +17,12 @@
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/eslint.svg" alt="console" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prettier.svg" alt="console" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="node" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sequelize.svg" alt="sequelize" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="vscode" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" alt="console" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nest.svg" alt="nest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="nest" width="40" height="40" />
+  
+  
 
 </div>
 
