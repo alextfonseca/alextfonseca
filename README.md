@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/SxXrLwP/github-header-image.png" alt="Computador">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hello , I am Alex Teixeira da Fonseca
+
+## 👨🏻‍💻 Full-stack developer
 
 
 <div padding="30px">
