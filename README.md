@@ -47,7 +47,7 @@
 </p>
   
   
-# Visitas
+# Visits
 
 <!-- visitors count  -->
 
