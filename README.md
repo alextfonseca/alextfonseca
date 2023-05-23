@@ -4,25 +4,124 @@
 
 
 <div padding="30px">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=midnight-purple&border_radius=10&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=midnight-purple&border_radius=10&hide_border=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true"/>
 </div>
 
 ## 🚀 Technologies
 <div align="left">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="html" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="react" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" alt="next" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/eslint.svg" alt="console" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prettier.svg" alt="console" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg" alt="git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="node" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nest.svg" alt="nest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="nest" width="40" height="40" />
+  
+  
+<div padding="30px">
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg"
+  title="HTML"
+  alt="HTML"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg"
+  title="CSS"
+  alt="CSS"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg"
+  title="SASS"
+  alt="SASS"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg"
+  title="Tailwindcss"
+  alt="Tailwindcss"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg"
+  title="JavaScript"
+  alt="JavaScript"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg"
+  title="React.js"
+  alt="React.js"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg"
+  title="Next.js"
+  alt="Next.js"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg"
+  title="Typescript"
+  alt="Typescript"
+  width="50"
+  height="50"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg"
+  title="Node.js"
+  alt="Node.js"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nest.svg"
+  title="Nest.js"
+  alt="Nest.js"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prisma.svg"
+  title="Prisma"
+  alt="Prisma"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg"
+  title="Jest"
+  alt="Jest"
+  width="50"
+  height="50"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/eslint.svg"
+  title="Eslint"
+  alt="Eslint"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prettier.svg"
+  title="Prettier"
+  alt="Prettier"
+  width="50"
+  height="50"
+/>
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg"
+  title="GIT"
+  alt="GIT"
+  width="50"
+  height="50"
+/>
+
+</div>
   
   
 
