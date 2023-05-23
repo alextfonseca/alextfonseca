@@ -69,7 +69,6 @@
   width="50"
   height="50"
 />
-
 <img
   src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg"
   title="Node.js"
@@ -98,7 +97,6 @@
   width="50"
   height="50"
 />
-
 <img
   src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/eslint.svg"
   title="Eslint"
