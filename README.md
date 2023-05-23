@@ -1,12 +1,20 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hello , I am Alex Teixeira da Fonseca
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=midnight-purple&border_radius=10&hide_border=true&show_icons=true">
 
-## 👨🏻‍💻 Full-stack developer
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hello , I am Alex
+
+<p>
+ 👨🏻‍💻 I am a Full-Stack developer. Currently working building web, mobile and back-end applications for a bank in Dublin - Ireland
+</p>
 
 
-<div padding="30px">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=midnight-purple&border_radius=10&hide_border=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextfonseca&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true"/>
-</div>
+
+
+
+
+
+
+
+<hr>
 
 ## 🚀 Technologies
 <div align="left">
