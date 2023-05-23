@@ -126,10 +126,6 @@
 
 </div>
 
-##  👾 Portfólio
-<a href="https://alextfonseca.vercel.app/" alt="portfolio web">
-<img src="https://i.ibb.co/XxtdrcV/QRCode-F-cil.png" alt="qrCode" width="200" height="200" />
-
  ## 💌 If you want to know more about my projects just contact me: ⤵️
 
 <p align="left">
