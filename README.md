@@ -150,5 +150,3 @@
 </p>
 
 <!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/alextfonseca/alextfonseca/output/github-contribution-grid-snake.svg)
