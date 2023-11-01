@@ -98,6 +98,23 @@
   width="50"
   height="50"
 />
+
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vitest.svg"
+  title="Vitest"
+  alt="Vitest"
+  width="50"
+  height="50"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cypress.svg"
+  title="Cypress"
+  alt="Cypress"
+  width="50"
+  height="50"
+/>
+ 
 <img
   src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/eslint.svg"
   title="Eslint"
@@ -119,6 +136,17 @@
   width="50"
   height="50"
 />
+
+<img
+  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/storybook.svg"
+  title="Storybook"
+  alt="Storybook"
+  width="50"
+  height="50"
+/>
+
+
+
 
 </div>
   
