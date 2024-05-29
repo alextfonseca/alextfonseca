@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hello , I am Alex
 
 <p>
- 👨🏻‍💻 I am a Full-Stack developer. Currently working building web, mobile and back-end applications for a bank in Dublin - Ireland
+ 👨🏻‍💻 I am a Full-Stack developer. Currently working building web, mobile and back-end applications.
 </p>
 
 
