@@ -1,173 +1,82 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=alextfonseca&issues&theme=midnight-purple&border_radius=10&hide_border=true&show_icons=true">
+# 👋 Hi, I'm Alex Teixeira da Fonseca
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hello , I am Alex
+Senior Front-end Software Engineer with solid experience building **scalable web, mobile and back-end applications**.  
+Strong focus on **performance, architecture, maintainability and developer experience**.
 
-<p>
- 👨🏻‍💻 I am a Software Engineer Currently working building web, mobile and back-end applications.
+---
+
+## 🧠 About me
+
+- 👨🏻‍💻 Senior Front-end Software Engineer  
+- 🏗️ Experience leading features from planning to production  
+- ⚡ Performance optimization and component architecture specialist  
+- 📱 Cross-platform mobile development experience  
+- 🤝 Strong collaboration with product, design and back-end teams  
+
+Currently working daily with **React, Next.js, Nest.js, Flutter and Dart**.
+
+---
+
+## 🚀 Tech Stack
+
+### Front-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
 </p>
 
+---
 
-<hr>
+### Mobile
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" />
+</p>
 
-## 🚀 Technologies
-<div align="left">
-  
-  
-<div padding="30px">
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg"
-  title="HTML"
-  alt="HTML"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg"
-  title="CSS"
-  alt="CSS"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg"
-  title="SASS"
-  alt="SASS"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg"
-  title="Tailwindcss"
-  alt="Tailwindcss"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg"
-  title="JavaScript"
-  alt="JavaScript"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg"
-  title="React.js"
-  alt="React.js"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg"
-  title="Next.js"
-  alt="Next.js"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg"
-  title="Typescript"
-  alt="Typescript"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg"
-  title="Node.js"
-  alt="Node.js"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nest.svg"
-  title="Nest.js"
-  alt="Nest.js"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prisma.svg"
-  title="Prisma"
-  alt="Prisma"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg"
-  title="Jest"
-  alt="Jest"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vitest.svg"
-  title="Vitest"
-  alt="Vitest"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cypress.svg"
-  title="Cypress"
-  alt="Cypress"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/eslint.svg"
-  title="Eslint"
-  alt="Eslint"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prettier.svg"
-  title="Prettier"
-  alt="Prettier"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg"
-  title="GIT"
-  alt="GIT"
-  width="50"
-  height="50"
-/>
-<img
-  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/storybook.svg"
-  title="Storybook"
-  alt="Storybook"
-  width="50"
-  height="50"
-/>
+---
 
-</div>
-  
-  
+### Back-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" />
+</p>
 
-</div>
+---
 
- ## 💌 If you want to know more about my projects just contact me: ⤵️
+### Testing & Tooling
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+</p>
+
+---
+
+## 📬 Get in touch
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-  <a href="https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
-
-  <a href="https://wa.me/+5511976184659?text=Olá%20Alex" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
- </a>
-
-</p>
-  
-  
-# Visits
-
-<!-- visitors count  -->
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/alextfonseca/count.svg" />  
+  <a href="https://wa.me/5511976184659?text=Hello%20Alex" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
-<!-- github workflow  -->
+---
+
+## 👀 Profile visits
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alextfonseca&color=blueviolet&style=flat-square" />
+</p>
